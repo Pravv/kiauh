@@ -2,7 +2,7 @@
 SYSTEMDDIR="/etc/systemd/system"
 KLIPPY_ENV="${HOME}/klippy-env"
 KLIPPER_DIR="${HOME}/klipper"
-KLIPPER_REPO="https://github.com/Klipper3d/klipper.git"
+KLIPPER_REPO="https://github.com/pravv/klipper.git"
 
 klipper_setup_dialog(){
   ### check for existing klipper service installations
